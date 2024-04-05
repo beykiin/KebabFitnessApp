@@ -1,3 +1,11 @@
+<h1><i>KEBAB FITNESS APP</i></h1>
+<p>In my project, initially, a page will greet the user with a logo, brand name, and a button for transitioning to the registration page. Then, a form page will open, and if the user leaves any field empty, a warning message will appear stating that the fields cannot be left blank. If the user fills in all the information successfully, the registration will be completed, and the user's information will be displayed on the next page.</p>
+<div style="display-flex">
+   <img src="SS1.png">
+   <img src="SS2.png">
+</div>
+<img src="SS3.png">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
